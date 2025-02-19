@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf647d8027e39c449876c83866b3442c, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  plantsData:
+  - <Name>k__BackingField: Sunflower
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 9143329685638133923, guid: e377c42e78d4fc6499faa0886877e316, type: 3}
+  - <Name>k__BackingField: Twin Sunflower
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5867048279682842545, guid: bfc10af7cf11ad943a7d3ccc9ec7da96, type: 3}
+  - <Name>k__BackingField: PeaShooter
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 3715394259037748428, guid: 2e6ea7187ae80f348bf555ea057c34a7, type: 3}
+  - <Name>k__BackingField: Repeater
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6652366391039370399, guid: 11d2baa46ad00d54ba31c4da78249f99, type: 3}
+  - <Name>k__BackingField: Ice Pea
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2710368700499125071, guid: ca6b33f5b22ed03479110caeb465970e, type: 3}
+  - <Name>k__BackingField: Chomper
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 7036790174678357889, guid: 816de374382ec384287a53699ef4fac4, type: 3}
+  - <Name>k__BackingField: Potato Mine
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2675160453227710045, guid: e57dce142d961584a8871720cf3c1904, type: 3}
+  - <Name>k__BackingField: Cherry Bomb
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 7984161153903120161, guid: 0014817ebe4432b419776e33e057b754, type: 3}
+  - <Name>k__BackingField: WallNut
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 3147519038145684739, guid: dd1ee254733df924fab6d9af4023316a, type: 3}
+  - <Name>k__BackingField: TallWallNut
+    <ID>k__BackingField: 9
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4645835192015941662, guid: fa429a1f17b3f2143a4f2f0aa962dca7, type: 3}
+  - <Name>k__BackingField: Gatling Pea
+    <ID>k__BackingField: 10
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 3221115429754147832, guid: 4fcf5946751b52d488552cb9a0e678a3, type: 3}
